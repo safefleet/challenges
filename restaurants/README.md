@@ -22,7 +22,7 @@ Based on the data that we have in `restaurants.txt`, create a restaurant recomme
 3. Restaurants grouped by their cuisine:
 ```
    Canadian: "Georgie Porgie"
-   Pub Food: "Georgie Porgi, Deep Fried Everything"
+   Pub Food: "Georgie Porgi", "Deep Fried Everything"
    Malaysian: "Queen St. Cafe"
    Thai: "Queen St. Cafe"
    Chinese: "Dumplings R Us", "Flavour Fusion", "Eat In, Take Out"

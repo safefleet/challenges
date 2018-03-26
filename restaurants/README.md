@@ -34,8 +34,8 @@ Based on the data that we have in `restaurants.txt`, create a restaurant recomme
 * We need a Python command-line program.
 * OOP required. We need to use classes for representing the restaurant and the cuisine. A reference should be set between the two entities.
 * The program should run in two modes:
-   1. When giving no parameters: All the above reports should be listed
-   2. When giving a restaurant name as parameter: A restaurant representation should be showed
+   1. When giving no parameters: All the above reports should be listed.
+   2. When giving a restaurant name as parameter: A restaurant representation should be showed.
       ```
       Name: Steak House
       Ratting: 82%
